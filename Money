@@ -10,4 +10,3 @@ local Diamond = player.Inventory.Diamonds
 Gems.Value = 100000
 Cash.Value = 99999999999
 Diamond.Value = 1000000000000000000
-moddedtool.TextureId = http://www.roblox.com/asset/?id=15360426543
