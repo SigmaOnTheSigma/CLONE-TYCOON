@@ -5,9 +5,10 @@ local Cash = player.leaderstats.Cash
 
 local moddedtool = player.Backpack.Pickaxe
 
-local Diamond = player.Inventory.Diamonds
+local Diamond = player.Inventory
 
 Gems.Value = 100000
 Cash.Value = 99999999999
-Diamond.Value = 1000000000000000000
-moddedtool.Name = "ModdedBruh"
+Diamond.Diamonds.Value = 10000000000
+Diamond.Gold.Value = 999999999
+Diamond.Iron.Value = 1000000000000000
