@@ -1,0 +1,7 @@
+local player = game.Players.LocalPlayer
+
+local Gems = player.Gems
+local Cash = player.leaderstats.Cash
+
+Gems.Value = 100000
+Cash.Value = 99999999999
