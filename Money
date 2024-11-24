@@ -3,10 +3,11 @@ local player = game.Players.LocalPlayer
 local Gems = player.Gems
 local Cash = player.leaderstats.Cash
 
-local moddedtool = player.Backpack.NinjaPotion
+local moddedtool = player.Backpack.Pickaxe
 
 local Diamond = player.Inventory.Diamonds
 
 Gems.Value = 100000
 Cash.Value = 99999999999
 Diamond.Value = 1000000000000000000
+moddedtool.Name = "ModdedBruh"
